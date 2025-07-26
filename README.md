@@ -1,6 +1,8 @@
 # AIPredictingASCVD-ColorectalCancer
 Develop and validate AI models to predict ASCVD among those with right-side colorectal cancer, using routine EHR data
 
+https://ecancer.org/en/news/26186-colorectal-cancer-linked-with-increased-risk-of-cardiovascular-mortality
+
 # Primary outcomes of interest:
 
 ASCVD
