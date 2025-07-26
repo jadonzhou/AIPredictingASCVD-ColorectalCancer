@@ -1,5 +1,5 @@
 # AIPredictingASCVD-ColorectalCancer
-Develop and validate AI models to predict ASCVD among those with colorectal cancer, using routine EHR data
+Develop and validate AI models to predict ASCVD among those with right-side colorectal cancer, using routine EHR data
 
 # Primary outcomes of interest:
 
@@ -76,8 +76,6 @@ Hypotension
 Hypoglycemia
 
 Diabetes mellitus
-
-Existing ASCVD
 
 Chronic obstructive pulmonary disease
 
