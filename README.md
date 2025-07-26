@@ -4,12 +4,8 @@ Develop and validate AI models to predict ASCVD among those with colorectal canc
 Primary outcomes of interest:
 
 ASCVD
-Time to ASCVD, years
 
-All-cause mortality
-Time to mortality, years
-Cardiovascular mortality
-Time to CVD mortality, years
+Time to ASCVD, years
 
 Peripheral vascular disease
 Time to Peripheral vascular disease, years
@@ -29,6 +25,18 @@ Stroke/transient ischemic attack
 Time to Stroke/transient ischemic attack, years
 Intracranial hemorrhagic stroke
 Time to Intracranial hemorrhagic stroke, years
+
+Secondary outcomes:
+
+All-cause mortality
+
+Time to mortality, years
+
+Cardiovascular mortality
+
+Time to CVD mortality, years
+
+
 Male gender
 Baseline age, years
 Charlson standard commorbidity index
